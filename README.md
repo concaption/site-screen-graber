@@ -11,6 +11,7 @@
 a minimal cli that takes screenshot of the given url
 
 step 1: open in a codespace
+
 step 2: setup the environment using
 ```
 make setup

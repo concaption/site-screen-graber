@@ -4,14 +4,16 @@
         },
         "vscode": {
             "extensions": [
-                "ms-python.python",
-                "ms-python.pylint",
-                "ms-toolsai.jupyter",
-                "github.copilot",
-                "github.copilot-chat",
-                "github.copilot-labs",
-                "ahmadawais.shades-of-purple"
-            ],
+				"ms-python.python",
+				"ms-python.pylint",
+				"ms-toolsai.jupyter",
+				"github.copilot",
+				"ahmadawais.shades-of-purple",
+				"ms-vscode.makefile-tools",
+				"ms-azuretools.vscode-docker",
+				"twixes.pypi-assistant",
+				"EditorConfig.EditorConfig"
+			],
             "settings": {
                 "workbench.colorTheme": "Shades of Purple (Super Dark)"
             }
